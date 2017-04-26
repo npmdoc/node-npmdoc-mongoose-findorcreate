@@ -1,6 +1,6 @@
 # npmdoc-mongoose-findorcreate
 
-#### api documentation for  [mongoose-findorcreate (v1.0.1)](https://github.com/drudge/mongoose-findorcreate#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongoose-findorcreate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongoose-findorcreate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongoose-findorcreate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongoose-findorcreate)
+#### basic api documentation for  [mongoose-findorcreate (v1.0.1)](https://github.com/drudge/mongoose-findorcreate#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongoose-findorcreate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongoose-findorcreate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongoose-findorcreate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongoose-findorcreate)
 
 #### Mongoose plugin that adds findOrCreate
 
@@ -65,7 +65,8 @@
     "scripts": {
         "test": "mocha -u bdd -R spec -c ./test/*test.js"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
